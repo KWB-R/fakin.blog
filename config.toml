@@ -1,0 +1,41 @@
+baseurl = "http://kwb-r.github.io/fakin.blog"
+relativeurls = false
+languageCode = "en-us"
+title = "fakin.blog"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = "fakin"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/kwb-r"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/KWBerlin_R"
+
+[params]
+    description = "This website is built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "fakin_blog.png"
+    width = 253
+    height = 60
+    alt = "Logo"
+
