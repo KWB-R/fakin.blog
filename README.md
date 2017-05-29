@@ -18,7 +18,7 @@ devtools::install_github("rstudio/blogdown")
 
 ### 2. Step) Create new knowledge post
 
-Create a Rmarkdown post similar to **[content/post/2017-05-19-fakin-project-started.Rmd](2017-05-19-fakin-project-started.Rmd)** in directory ***content/post***.
+Create a Rmarkdown post similar to **[2017-05-19-fakin-project-started.Rmd](content/post/2017-05-19-fakin-project-started.Rmd)** in directory ***content/post***.
 
 ### 3. Step) Update the blog 
 
