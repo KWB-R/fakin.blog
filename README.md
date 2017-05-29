@@ -4,7 +4,7 @@ Blog on FAKIN project status
 
 ## How to update the blog
 
-###1. Step) Install blogdown package
+### 1. Step) Install blogdown package
 
 ```r
 
@@ -15,11 +15,11 @@ if (!require("devtools")) {
 devtools::install_github("rstudio/blogdown")
 ```
 
-###2. Step) Create new knowledge post
+### 2. Step) Create new knowledge post
 
 Create a Rmarkdown post similar to **2017-05-19-fakin-project-started.Rmd** in directory ***content/post***.
 
-###3. Step) Update the blog 
+### 3. Step) Update the blog 
 
 To do so run the following R code: 
 ```r
@@ -43,7 +43,7 @@ If completed finally commit (vit GIT/Subversion) the changed files in the follow
 and you are done. 
 
 
-###4. Step) Visit the updated blog
+### 4. Step) Visit the updated blog
 
 The content of the updated blog is available at [http://kwb-r.github.io/fakin.blog](http://kwb-r.github.io/fakin.blog).
 
