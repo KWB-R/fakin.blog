@@ -1,4 +1,5 @@
-# fakin.blog
+<img src="themes/hugo-lithium-theme/static/images/fakin_blog.png" alt="fakin_blog_logo" />
+
 Blog on FAKIN project status 
 
 
