@@ -1,5 +1,5 @@
 ---
-title: FAKIN project started
+title: Projekt gestartet
 author: Michael Rustler
 date: '2017-05-02'
 slug: fakin-project-started
@@ -7,16 +7,21 @@ categories: ["data management"]
 tags: ["data management"]
 ---
 
-Am Kompetenzzentrum Wasser Berlin gGmbH (KWB) bearbeiten die wissenschaftlichen 
-Mitarbeiter im Rahmen ihrer Forschungstätigkeiten eine Vielzahl von Daten, die
-selbst erhoben oder von Projektpartnern zur Verfügung gestellt werden. Dazu
-zählen Messdaten, Metadaten, Fotos/ Videos, Bestands- und Zustandsdaten und
-verarbeitete Daten (z.B. Zeitreihen, aggregierte Werte, Ergebnisse aus
-Computersimulationen). Um solche Forschungsdaten nachhaltig nutzbar zu machen,
-zu verwalten und zu verarbeiten, sind standardisierte Prozesse, Werkzeuge und
-Methoden zu definieren, die eine projektübergreifende Reproduzierbarkeit der
-Ergebnisse gewährleisten. Ziel des Projektes FAKIN ist es, ein solches
-Forschungsdatenmanagement für KWB in Zusammenarbeit mit den
+Das vom BMBF im Rahmen des Programms *"Erforschung des Managements von Forschungsdaten 
+in ihrem Lebenszyklus an Hochschulen und außeruniversitären Forschungseinrichtungen* 
+geförderte Projekt **FAKIN** (**F**orschungdatenmanagement **a**n **k**leinen 
+**I**nstituten)  ist am 1. Mai 2017 am  Kompetenzzentrum Wasser Berlin gGmbH (KWB) 
+gestartet.
+
+Am KWB bearbeiten die wissenschaftlichen Mitarbeiter im Rahmen ihrer 
+Forschungstätigkeiten eine Vielzahl von Daten, die selbst erhoben oder von 
+Projektpartnern zur Verfügung gestellt werden. Dazu zählen Messdaten, Metadaten, 
+Fotos/ Videos, Bestands- und Zustandsdaten und verarbeitete Daten (z.B. Zeitreihen, 
+aggregierte Werte, Ergebnisse aus Computersimulationen). Um solche Forschungsdaten 
+nachhaltig nutzbar zu machen, zu verwalten und zu verarbeiten, sind standardisierte 
+Prozesse, Werkzeuge und Methoden zu definieren, die eine projektübergreifende 
+Reproduzierbarkeit der Ergebnisse gewährleisten. Ziel des Projektes FAKIN ist es, 
+ein solches Forschungsdatenmanagement für KWB in Zusammenarbeit mit den
 Projektwissenschaftlern zu erarbeiten und unternehmensweit zu etablieren.
 
 Die Bedeutung des Forschungsdatenmanagements ist in den vergangenen Jahren

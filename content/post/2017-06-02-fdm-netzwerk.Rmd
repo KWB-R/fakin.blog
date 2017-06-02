@@ -1,0 +1,16 @@
+---
+title: FAKIN auf FDM Netzwerkveranstaltung des BMBF
+author: Michael Rustler
+date: '2017-06-01'
+slug: fakin-fdm-netzwerk
+categories: ["data management"]
+tags: ["data management", "network"]
+---
+
+Am 1.6.2017 fand die Auftaktveranstaltung des BMBF zur Vernetzung und 
+Identifikation von Synergiepotenzialen im Harnack Haus der Max Planck 
+Gesellschaft in Berlin statt auf wir (Hauke Sonnenberg & Michael Rustler) das 
+Projekt FAKIN in zwei verschiedenen Sessions Kompetenzen & Disziplin-spezifische 
+Besonderheiten im FDM) mit Redebeitragen vorgestellt haben. 
+
+In Kürze dazu mehr hier....

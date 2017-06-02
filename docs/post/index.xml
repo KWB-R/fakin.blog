@@ -6,18 +6,29 @@
     <description>Recent content in Posts on fakin.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kwb-r.github.io/fakin.blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>FAKIN project started</title>
+      <title>FAKIN auf FDM Netzwerkveranstaltung des BMBF</title>
+      <link>https://kwb-r.github.io/fakin.blog/2017/06/01/fakin-fdm-netzwerk/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwb-r.github.io/fakin.blog/2017/06/01/fakin-fdm-netzwerk/</guid>
+      <description>Am 1.6.2017 fand die Auftaktveranstaltung des BMBF zur Vernetzung und Identifikation von Synergiepotenzialen im Harnack Haus der Max Planck Gesellschaft in Berlin statt auf wir (Hauke Sonnenberg &amp;amp; Michael Rustler) das Projekt FAKIN in zwei verschiedenen Sessions Kompetenzen &amp;amp; Disziplin-spezifische Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
+In Kürze dazu mehr hier….</description>
+    </item>
+    
+    <item>
+      <title>Projekt gestartet</title>
       <link>https://kwb-r.github.io/fakin.blog/2017/05/02/fakin-project-started/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kwb-r.github.io/fakin.blog/2017/05/02/fakin-project-started/</guid>
-      <description>Am Kompetenzzentrum Wasser Berlin gGmbH (KWB) bearbeiten die wissenschaftlichen Mitarbeiter im Rahmen ihrer Forschungstätigkeiten eine Vielzahl von Daten, die selbst erhoben oder von Projektpartnern zur Verfügung gestellt werden. Dazu zählen Messdaten, Metadaten, Fotos/ Videos, Bestands- und Zustandsdaten und verarbeitete Daten (z.B. Zeitreihen, aggregierte Werte, Ergebnisse aus Computersimulationen). Um solche Forschungsdaten nachhaltig nutzbar zu machen, zu verwalten und zu verarbeiten, sind standardisierte Prozesse, Werkzeuge und Methoden zu definieren, die eine projektübergreifende Reproduzierbarkeit der Ergebnisse gewährleisten.</description>
+      <description>Das vom BMBF im Rahmen des Programms *“Erforschung des Managements von Forschungsdaten in ihrem Lebenszyklus an Hochschulen und außeruniversitären Forschungseinrichtungen* geförderte Projekt FAKIN (Forschungdatenmanagement an kleinen Instituten) ist am 1. Mai 2017 am Kompetenzzentrum Wasser Berlin gGmbH (KWB) gestartet.
+Am KWB bearbeiten die wissenschaftlichen Mitarbeiter im Rahmen ihrer Forschungstätigkeiten eine Vielzahl von Daten, die selbst erhoben oder von Projektpartnern zur Verfügung gestellt werden. Dazu zählen Messdaten, Metadaten, Fotos/ Videos, Bestands- und Zustandsdaten und verarbeitete Daten (z.</description>
     </item>
     
   </channel>
