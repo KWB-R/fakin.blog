@@ -7,11 +7,9 @@ categories: ["data management"]
 tags: ["data management"]
 ---
 
-Das vom BMBF im Rahmen des Programms *"Erforschung des Managements von Forschungsdaten 
-in ihrem Lebenszyklus an Hochschulen und außeruniversitären Forschungseinrichtungen* 
-geförderte Projekt **FAKIN** (**F**orschungdatenmanagement **a**n **k**leinen 
-**I**nstituten)  ist am 1. Mai 2017 am  Kompetenzzentrum Wasser Berlin gGmbH (KWB) 
-gestartet.
+Das vom BMBF im Rahmen des Programms *"Erforschung des Managements von Forschungsdaten in ihrem Lebenszyklus an Hochschulen und außeruniversitären Forschungseinrichtungen"* geförderte Projekt **FAKIN** (**F**orschungdatenmanagement 
+**a**n **k**leinen **I**nstituten)  ist am 1. Mai 2017 am  Kompetenzzentrum Wasser
+Berlin gGmbH (KWB) gestartet.
 
 Am KWB bearbeiten die wissenschaftlichen Mitarbeiter im Rahmen ihrer 
 Forschungstätigkeiten eine Vielzahl von Daten, die selbst erhoben oder von 
