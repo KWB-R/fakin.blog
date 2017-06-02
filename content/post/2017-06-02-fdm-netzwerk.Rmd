@@ -7,13 +7,48 @@ categories: ["data management"]
 tags: ["data management", "network"]
 ---
 
-Vom Eise befreit sind Strom und Bäche...
-
 Am 1.6.2017 fand die Auftaktveranstaltung des BMBF zur Vernetzung und 
 Identifikation von Synergiepotenzialen im Harnack Haus der Max Planck 
 Gesellschaft in Berlin statt auf der wir (Hauke Sonnenberg & Michael Rustler) das 
 Projekt FAKIN in zwei verschiedenen Sessions (Kompetenzen & Disziplin-spezifische 
 Besonderheiten im FDM) mit Redebeitragen vorgestellt haben. 
 
-*In Kürze dazu mehr hier....*
+#### Begrüßung durch Vertreter des BMBF
 
+- Die "Digitale Agenda" steht im Koalitionsvertrag der Bundes
+- Deutsches Internet-Institut
+- Digitaler Wandel in der Wissenschaft
+- Rat für Informationsinfrastrukturen gibt Handlungsempfehlungen
+- Nationale Forschungsdateninfrastruktur (NFDI) ist ein System (Vernetzung) und
+  ein Prozess (sie entwickelt sich)
+- Von 73 Anträgen wurden 34 angenommen (`r sprintf("%0.1f %%", 34/73*100)`),
+  in nur acht davon werden außeruniversitäre Einrichtungen gefördert.
+
+#### Hinweise an das KWB in persönlichen Gesprächen
+
+- Wir sollten Datenzentren (= Repositorien) nutzen. Ausgangspunkt dafür kann
+  [re3data](http://www.re3data.org) sein, eine Art Suchmaschine für solche 
+  Datenzentren.
+
+### Session 2: Kooperationen
+
+#### Projekt UNEKE
+
+- Partner: Uni Essen, RWTH Aachen
+- Nach welchen Kriterien wird entschieden, welche Systeme genutzt werden?
+- Ziel: Kriterienkatalog
+
+#### Projekt FoDaKo
+
+- Partner: drei Universitäten: Düsseldorf, Siegen, Wuppertal
+- Digitale Langzeitarchivierung und FDM
+- Rechenzentren und Bibliotheken
+- bereits geschehen: Evaluation von Software, Anforderungskatalog
+- dreistufige IT-Infrastruktur vorhanden: u.a. Sharepoint, Open Source,
+  insgesamt 2 PByte (1 PByte = 1000 GByte) Speicher, verteilt auf drei Zentren
+- wichtig: verbindliches commitment
+- bereits vorhanden: Richtlinien
+- Projektziel: 
+    * Aufbau von *Kompetenzzentren*, die die vorhandenen Strukturen 
+      den Wissenschaftlern "andienen"
+    * Schulungen
