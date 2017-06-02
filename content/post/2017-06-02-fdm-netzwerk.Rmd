@@ -29,14 +29,16 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Wir sollten Datenzentren (= Repositorien) nutzen. Ausgangspunkt dafür kann
   [re3data](http://www.re3data.org) sein, eine Art Suchmaschine für solche 
   Datenzentren.
+  
+- Wir sollten uns Kooperationspartner (z.B. Uni mit Rechenzentrum?) suchen
 
 ### Session 2: Kooperationen
 
 #### Projekt UNEKE
 
 - Partner: Uni Essen, RWTH Aachen
-- Nach welchen Kriterien wird entschieden, welche Systeme genutzt werden?
-- Ziel: Kriterienkatalog
+- Ziel: Kriterienkatalog: Nach welchen Kriterien wird entschieden, welche 
+  Systeme genutzt werden?
 
 #### Projekt FoDaKo
 
@@ -44,11 +46,102 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Digitale Langzeitarchivierung und FDM
 - Rechenzentren und Bibliotheken
 - bereits geschehen: Evaluation von Software, Anforderungskatalog
-- dreistufige IT-Infrastruktur vorhanden: u.a. Sharepoint, Open Source,
-  insgesamt 2 PByte (1 PByte = 1000 GByte) Speicher, verteilt auf drei Zentren
+- bereits vorhanden: 
+    + dreistufige IT-Infrastruktur, u.a. Sharepoint, Open Source,
+      insgesamt 2 PByte (1 PByte = 1000 GByte) Speicher, verteilt auf drei 
+      Zentren
+    + Richtlinien
 - wichtig: verbindliches commitment
-- bereits vorhanden: Richtlinien
 - Projektziel: 
-    * Aufbau von *Kompetenzzentren*, die die vorhandenen Strukturen 
+    + Aufbau von *Kompetenzzentren*, die die vorhandenen Strukturen 
       den Wissenschaftlern "andienen"
-    * Schulungen
+    + Schulungen
+
+#### Projekt SynFo
+
+- Uni Kiel: datengetriebene Forschung, u.a. Sonderforschungsbereiche SFB 1182
+  (Entstehen und Funktionieren von Metaorganismen), SFB 754 (Klima - 
+  Biogeochemische Wechselwirkungen im Tropischen Ozean)
+- Exzellenzcluster
+- Datenflüsse schwierig
+- Ziel: Workflows beleuchten
+    + organisatorisch
+    + technisch, z.B. Metadatenformate
+    + rechtlich, z.B. Urheberschaft, Lizenzen
+- Produkte
+    + Vorgehensweisen, workflows (generisch)
+    + Data Policy Kit (Baukastensystem)
+    + Musterverträge, Richtlinienblaupausen
+
+#### Projekt FDMentor: Good Practice im FDM
+
+- Partner: HUB, FUB, TUB, Uni Potsdam (UP)
+- Idee Mentor: es sind unterschiedliche Niveaus vorhanden
+- Elemente
+    + Strategieentwicklung (UP)
+    + FD Policies (TUB)
+    + Schulungen, Trainings (FUB, HUB): schlechte Skalierung wegen Fluktuationen
+    + Verbund (HUB): Vernetzung, Koordination
+- Ziel: Handlungsempfehlungen, Policies
+- Austausch mit Repositories
+- re3data: Wie finde ich das passende Repository?
+- Herausforderung: Adressierung und Ansprache von Wissenschaftlern
+- Forschungsdaten-Policies
+
+#### Statements
+
+- Bela Brenger (RWTH Aachen)
+    + Kriterienkatalog
+    + praxisnahe Handlungsanweisungen
+
+- Sabine Roller (FoDaKo)
+    + Rechenzentren und Bibliotheken
+    + Schulungsunterlagen
+
+#### Diskussion
+
+- Es scheint regionale Beschränkungen zu geben. Sind Landesgrenzen bindend?
+  Finanziell schon. 
+- Kiel: dezentrales FDM
+- HS bemerkt, dass es für ein kleines Institut schwierig ist, ein FDM zu 
+  installieren, wenn dies in den Projekten nicht explizit eingeplant ist. 
+  Antwort: Entscheidend dafür ist, was förderfähig ist. Empfehlung an das KWB: 
+  Wir sollten uns Kooperationspartner (z.B. Uni mit Rechenzentrum?) suchen
+
+#### FDM_OAS-Orient
+
+- Fachbereichsbibliothek
+- Information Retrieval
+- "Was Google nicht findet, existiert nicht" - NEIN
+
+#### InPT-Dat
+
+- Konzept einer interdisziplinären Datenplattform
+- physikalische, biologische, medizinische Daten
+
+#### geo\_data\_node_gfz
+
+- Spannungsfeld spezifisch <-> generisch
+- Domänen: privat, Gruppe, dauerhaft, Nachnutzung
+- Metadaten: essentiell für Wiederverwendung (Reuse) und Findbarkeit
+- Strukturelle Metadaten, z.B. DOI
+- Datenpublikation mit DOI
+- Standardisierte XML-Dateien
+- Konsensbildung in Communities
+
+#### GRAcE
+
+- eResearch-Infrastruktur am Campus Göttingen
+- Etablierung von Disziplin-unabhängigen services
+- Embedded Librarian: Datenmanager geht "rein ins Feld"
+
+
+#### eeFDM
+
+- Kontaktstelle FDM Uni Jena
+- Biodiversitätsforschung
+- Datenmanagement-Plattform
+- Heterogenität
+- Herausforderung: Datenpublikation
+- Projektansatz: FDM-Plattform im Baukastenprinzip
+- Koordination und Harmonisierung
