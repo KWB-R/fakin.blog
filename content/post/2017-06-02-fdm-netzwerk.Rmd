@@ -32,15 +32,18 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
   
 - Wir sollten uns Kooperationspartner (z.B. Uni mit Rechenzentrum?) suchen
 
+### Session 1: Kompetenzen
+
 ### Session 2: Kooperationen
 
-#### Projekt UNEKE
+#### Projekt UNEKE, [Ania Lopez](https://www.uni-due.de/zim/services/suchdienste/mitarbeiter.php?id=50724), Uni Duisburg
 
 - Partner: Uni Essen, RWTH Aachen
 - Ziel: Kriterienkatalog: Nach welchen Kriterien wird entschieden, welche 
   Systeme genutzt werden?
+- **Statement** Bela Brenger (RWTH Aachen): praxisnahe Handlungsanweisungen
 
-#### Projekt FoDaKo
+#### Projekt FoDaKo, [Hans-Dieter Weckmann](https://www.zim.hhu.de/nc/das-zim/mitarbeiterinnen-und-mitarbeiter/detailansicht.html?tt_address%5Bperson%5D=2623&tt_address%5Bfunktion%5D=3011), Uni Düsseldorf
 
 - Partner: drei Universitäten: Düsseldorf, Siegen, Wuppertal
 - Digitale Langzeitarchivierung und FDM
@@ -56,8 +59,9 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
     + Aufbau von *Kompetenzzentren*, die die vorhandenen Strukturen 
       den Wissenschaftlern "andienen"
     + Schulungen
+- **Statement** Sabine Roller (Uni Siegen): Schulungsunterlagen
 
-#### Projekt SynFo
+#### Projekt SynFo, [Thilo Paul-Stüve](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/tpaul-stueve), Uni Kiel
 
 - Uni Kiel: datengetriebene Forschung, u.a. Sonderforschungsbereiche SFB 1182
   (Entstehen und Funktionieren von Metaorganismen), SFB 754 (Klima - 
@@ -73,9 +77,10 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
     + Data Policy Kit (Baukastensystem)
     + Musterverträge, Richtlinienblaupausen
 
-#### Projekt FDMentor: Good Practice im FDM
+#### Projekt FDMentor, [Malte Dreyer](https://www.cms.hu-berlin.de/de/ueberblick/personal/1686433), HU Berlin
 
 - Partner: HUB, FUB, TUB, Uni Potsdam (UP)
+- Good Practice im FDM
 - Idee Mentor: es sind unterschiedliche Niveaus vorhanden
 - Elemente
     + Strategieentwicklung (UP)
@@ -88,16 +93,6 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Herausforderung: Adressierung und Ansprache von Wissenschaftlern
 - Forschungsdaten-Policies
 
-#### Statements
-
-- Bela Brenger (RWTH Aachen)
-    + Kriterienkatalog
-    + praxisnahe Handlungsanweisungen
-
-- Sabine Roller (FoDaKo)
-    + Rechenzentren und Bibliotheken
-    + Schulungsunterlagen
-
 #### Diskussion
 
 - Es scheint regionale Beschränkungen zu geben. Sind Landesgrenzen bindend?
@@ -108,18 +103,22 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
   Antwort: Entscheidend dafür ist, was förderfähig ist. Empfehlung an das KWB: 
   Wir sollten uns Kooperationspartner (z.B. Uni mit Rechenzentrum?) suchen
 
-#### FDM_OAS-Orient
+### Session 3: Disziplinen-spezifische Besonderheiten im FDM
 
-- Fachbereichsbibliothek
+#### Projekt FDM_OAS-Orient, [Martin Lee](http://www.fu-berlin.de/sites/campusbib/Ansprechpartner/Lee-Martin/index.html), FU Berlin
+
+- Fachbereichsbibliothek, Asiatische Sprachen
 - Information Retrieval
 - "Was Google nicht findet, existiert nicht" - NEIN
 
-#### InPT-Dat
+#### Projekt InPT-Dat, [Steffen Franke](http://www.inp-greifswald.de/web3.nsf/mitarbeiter?Openpage&Language=eng&Liste=Mitarbeitender&ID=10091), INP Greifswald
 
+- INP = [Leibnitz-Institut für Plasmaforschung und Technologie e.V.](http://www.inp-greifswald.de),
+  außeruniversitäre Forschungseinrichtung, 164 Mitarbeiter laut Homepage
 - Konzept einer interdisziplinären Datenplattform
 - physikalische, biologische, medizinische Daten
 
-#### geo\_data\_node_gfz
+#### Projekt geo\_data\_node_gfz, [Roland Bertelmann](http://www.gfz-potsdam.de/wissenschaftliche-infrastruktur/bibliothek-und-informationsdienste/mitarbeiter/profil/roland-bertelmann), GFZ Potsdam
 
 - Spannungsfeld spezifisch <-> generisch
 - Domänen: privat, Gruppe, dauerhaft, Nachnutzung
@@ -129,14 +128,13 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Standardisierte XML-Dateien
 - Konsensbildung in Communities
 
-#### GRAcE
+#### Projekt GRAcE, [Jan Brase](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/jan-brase), Uni Göttingen
 
 - eResearch-Infrastruktur am Campus Göttingen
 - Etablierung von Disziplin-unabhängigen services
 - Embedded Librarian: Datenmanager geht "rein ins Feld"
 
-
-#### eeFDM
+#### Projekt eeFDM, [Roman Gerlach](http://www.geographie.uni-jena.de/Lehrst%C3%BChle/Fernerkundung/Personal/Gerlach.html), Uni Jena
 
 - Kontaktstelle FDM Uni Jena
 - Biodiversitätsforschung
@@ -145,3 +143,33 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Herausforderung: Datenpublikation
 - Projektansatz: FDM-Plattform im Baukastenprinzip
 - Koordination und Harmonisierung
+
+#### Projekt FDMHerder, [Barbara Fichtl](https://www.herder-institut.de/en/institute-staff/staff/personen/person/fichtl.html), Herder-Institut Marburg (**Statement**)
+
+#### Projekt FAKIN, [Hauke Sonnenberg](http://www.kompetenz-wasser.de/Team.14.0.html), KWB (**Statement**)
+
+- Schon Goethe hat die Bedeutung des Wassers erkannt.
+- Wir bearbeiten Fragen zum Thema Wasser in Bezug auf Quantität und Qualität
+- Wir verarbeiten Daten in unterschiedlicher Quantität und Qualität
+- Daten sind heterogen in Bezug auf Struktur, Formate, Metadatenbedarf
+- Unsere Methoden: Datenbanken, Programmierung, Automatisierung
+- Unsere Tools: zum Teil Eigenentwicklungen, maßgeschneiderte Lösungen
+- Unsere Ziele: 
+    + weiterhin Qualität unserer Ergebnisse
+    + Standardisierung, Vereinheitlichung eigener Methoden
+    + etablierte Lösungen statt Eigenentwicklungen
+- Was können wir von Ihnen lernen?
+
+#### Projekt FoDaKo, [Hans-Dieter Weckmann](https://www.zim.hhu.de/nc/das-zim/mitarbeiterinnen-und-mitarbeiter/detailansicht.html?tt_address%5Bperson%5D=2623&tt_address%5Bfunktion%5D=3011), Uni Düsseldorf (**Statement**)
+
+- Rechenzentrumsleiter
+- Aufbau von Kompetenzzentren
+- Unterschiedliche Policies, je nach Disziplin
+- nicht nur Metadaten sind Disziplinen-spezifisch
+
+#### Diskussion
+
+- elektronische Laborbücher, wer kennt gute?
+- Plädoyer: Mit dem arbeiten, was da ist!
+- [Dataverse](http://dataverse.org/) als Repositorium
+- Sharepoint als Möglichkeit, Prozesse abzubilden
