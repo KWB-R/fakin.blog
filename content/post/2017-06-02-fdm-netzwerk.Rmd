@@ -21,7 +21,7 @@ Besonderheiten im FDM) mit Redebeitragen vorgestellt haben.
 - Rat für Informationsinfrastrukturen gibt Handlungsempfehlungen
 - Nationale Forschungsdateninfrastruktur (NFDI) ist ein System (Vernetzung) und
   ein Prozess (sie entwickelt sich)
-- Von 73 Anträgen wurden 34 angenommen (`r sprintf("%0.1f %%", 34/73*100)`),
+- Von 73 Anträgen wurden 34 angenommen (`r paste(round(34/73*100, 1), "%")`),
   in nur acht davon werden außeruniversitäre Einrichtungen gefördert.
 
 #### Hinweise an das KWB in persönlichen Gesprächen
