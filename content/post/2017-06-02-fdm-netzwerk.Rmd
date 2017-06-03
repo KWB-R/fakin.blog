@@ -33,10 +33,10 @@ und austauschen konnten.
 #### Begrüßung durch Vertreter des BMBF
 
 - Die "Digitale Agenda" steht im Koalitionsvertrag der Bundes
-- Deutsches Internet-Institut
+- Aufbau eines [Deutschen Internet-Instituts](https://www.bmbf.de/de/aufbau-eines-deutschen-internet-institut-2934.html)
 - Digitaler Wandel in der Wissenschaft
-- Rat für Informationsinfrastrukturen gibt Handlungsempfehlungen
-- Nationale Forschungsdateninfrastruktur (NFDI) ist ein System (Vernetzung) und
+- [Rat für Informationsinfrastrukturen](http://www.rfii.de) gibt Handlungsempfehlungen
+- [Nationale Forschungsdateninfrastruktur](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html) (NFDI) ist ein System (Vernetzung) und
   ein Prozess (sie entwickelt sich)
 - Von 73 Anträgen wurden 34 angenommen (`r paste(round(34/73*100, 1), "%")`),
   in nur acht davon werden außeruniversitäre Einrichtungen gefördert.
@@ -145,7 +145,7 @@ und austauschen konnten.
 
 #### Projekt eeFDM, [Roman Gerlach](http://www.geographie.uni-jena.de/Lehrst%C3%BChle/Fernerkundung/Personal/Gerlach.html), Uni Jena
 
-- Kontaktstelle FDM Uni Jena
+- [Kontaktstelle FDM Uni Jena]([Kontaktstelle Forschungsdatenmanagement](https://www.uni-jena.de/Forschungsdatenmanagement.html))
 - Biodiversitätsforschung
 - Datenmanagement-Plattform
 - Heterogenität
@@ -224,8 +224,7 @@ und austauschen konnten.
 
 - [Kontaktstelle Forschungsdatenmanagement](https://www.uni-jena.de/Forschungsdatenmanagement.html)
 - Beratung, Schulung, am besten in der Antragsphase oder zu Projektbeginn
-- Aktiv auf die Leute zugehen
-- auch begleiten
+- Aktiv auf die Leute zugehen, auch begleiten
 - Noch Forschungsbedarf:
     + Evaluierung -> vgl. [Deutsche Gesellschaft für Evaluation](http://www.degeval.de/home)
     + Sind die Daten im Nachhinein verfügbar?
