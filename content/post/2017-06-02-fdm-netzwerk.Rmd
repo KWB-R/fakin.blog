@@ -13,6 +13,8 @@ Gesellschaft in Berlin statt auf der wir (Hauke Sonnenberg & Michael Rustler) da
 Projekt FAKIN in zwei verschiedenen Sessions (Kompetenzen & Disziplin-spezifische 
 Besonderheiten im FDM) mit Redebeitragen vorgestellt haben. 
 
+FDM = Forschungsdatenmanagement
+
 #### Hinweise an das KWB in persönlichen Gesprächen
 
 - [Malte Dreyer](https://www.cms.hu-berlin.de/de/ueberblick/personal/1686433), 
