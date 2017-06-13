@@ -1,4 +1,4 @@
-baseurl = "https://kwb-r.github.io/fakin.blog"
+baseurl = "https://fakin.netlify.com/"
 relativeurls = false
 languageCode = "en-us"
 title = "fakin.blog"
