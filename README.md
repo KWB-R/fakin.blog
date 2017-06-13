@@ -27,11 +27,6 @@ To do so run the following R code:
 
 blogdown::build_site(local = FALSE)
 
-### Copies files from public folder (please do not COMMIT!!) into docs 
-### folder which is required to work for GITHUB (all changed content of 
-### the docs folder needs to be committed to Github for the blog to be
-### updated)
-file.copy(from = "public/.",to = "docs",overwrite = TRUE,recursive = TRUE)
 ```
 
 If completed finally commit (vit GIT/Subversion) the changed files in the following two directories:
