@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "fakin.blog"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
-disqusShortname = "fakin"
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
