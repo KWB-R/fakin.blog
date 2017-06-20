@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on fakin.blog</title>
+    <link>https://kwb-r.github.io/fakin.blog/tags/python/</link>
+    <description>Recent content in Python on fakin.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kwb-r.github.io/fakin.blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E(R)lernen auf Datacamp</title>
+      <link>https://kwb-r.github.io/fakin.blog/2017/06/12/kwb-datacamp-group-account/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kwb-r.github.io/fakin.blog/2017/06/12/kwb-datacamp-group-account/</guid>
+      <description>Seit heute hat das KWB auf der Online Programmierplattform DataCamp ein kostenpflichtes Gruppenkonto mit 5 Plätzen abonniert, dass das eRlernen nochmals verbessern dürfte.
+Bisher gab es zwar schon eine KWB Gruppe auf DataCamp, jedoch mussten Interssierte für die kostenpflichtigen Kurse jeweils ein monatliches Abo für Datacamp abschließen und sich die Kosten dann die Kosten dann nachträglich wieder vom KWB erstatten zu lassen.
+Hierfür gilt folgender Workflow:
+ Werde Mitglied in unserer kostenfreien R@KWB DataCamp Gruppe indem du den folgenden Link klickst.</description>
+    </item>
+    
+  </channel>
+</rss>

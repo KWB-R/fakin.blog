@@ -25,7 +25,18 @@ Create a Rmarkdown post similar to **[2017-05-19-fakin-project-started.Rmd](cont
 To do so run the following R code: 
 ```r
 
+### Delete "public" folder (i.e. in case of older website builds)
+unlink("public",recursive = TRUE)
+
+
+### Build site
 blogdown::build_site(local = FALSE)
+
+### Copies files from public folder (please do not COMMIT!!) into docs 
+### folder which is required to work for GITHUB (all changed content of 
+### the docs folder needs to be committed to Github for the blog to be
+### updated)
+file.copy(from = "public/.",to = "docs",overwrite = TRUE,recursive = TRUE)
 
 ```
 
