@@ -12,11 +12,11 @@ nochmals verbessern dürfte.
 
 Bisher gab es zwar schon eine KWB Gruppe auf [DataCamp](https://www.datacamp.com), 
 jedoch mussten Interssierte für die kostenpflichtigen Kurse jeweils ein monatliches 
-Abo für Datacamp abschließen und sich die Kosten dann die Kosten dann nachträglich
-wieder vom KWB erstatten zu lassen.
+Abo für Datacamp abschließen und sich die Kosten dann nachträglich wieder vom KWB 
+erstatten zu lassen.
 
 
-Hierfür gilt folgender Workflow:
+**Es gilt folgender Workflow:**
 
 
 1. **Werde Mitglied in unserer kostenfreien [R@KWB DataCamp Gruppe](https://www.datacamp.com/groups/r-kwb)** indem du den folgenden [Link](https://www.datacamp.com/groups/3a6e6d4a7314de1b56a33c99c457b5c7eca00f6a/invite) 
