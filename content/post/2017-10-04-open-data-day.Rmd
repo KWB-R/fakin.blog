@@ -1,0 +1,145 @@
+---
+title: "Open Data Day 2017 in Berlin"
+author: "Hauke Sonnenberg"
+date: '2017-10-04'
+slug: open-data-day
+tags: open-data
+categories: open-data
+output: html_document
+---
+
+Am 4. Oktober 2017 fand von 9 bis 16 Uhr der Berlin Open Data Day in den Räumen 
+der Colonia Nova, Thiemannstraße 1, 12059 Berlin statt:
+
+https://projektzukunft.berlin.de/projekt-zukunft/projekt-zukunft-events/berlin-open-data-day-2017/
+
+Flyer:
+https://projektzukunft.berlin.de/fileadmin/user_upload/OpenData17_einladung-FINAL.pdf
+
+Es folgt eine stichwortartige Zusammenfassung der Redebeiträge. 
+
+## Christian Rickerts, Staatssekretär Senatsverwaltung für Wirtschaft, Energie, Betriebe (SenWEB)
+
+- Studien der Technologiestiftung -> wirtschaftliches Potential von Open Data
+- Nutzen für die Verwaltung selbst
+- der Prozess, Daten zu veröffentlichen, ist mühsam
+- Open Data Gesetz des Bundes
+- GAF (?)-Portal bundesweit -> Metadatenstandard
+- Rechtsverordnung in Berlin zur Umsetzung von Open Data
+- Eckpunkte der Rechtsverordnung:
+    * Daten sind standardmäßig offen
+	* kostenlos, frei zugänglich
+	* maschinenlesbar
+- Landeseigene Betriebe müssen Open Data anwenden
+- Bei Ausschreibungen auf Recht zur Veröffentlichung hinweisen
+- Berliner Open Data Portal
+- eigene Open Data Verantwortliche in den Verwaltungen
+- mit TSB wird Umsetzung geplant
+- Senatsverwaltung macht Inventur ihrer Datenbestände
+- Beispiel: Messung und Auswertung von Umweltdaten (für "Smart City")
+- auch landeseigene Betriebe profitieren, z. B. im Bereich Wasser/Abwasser
+- Beispielprojekt: SEMA! 
+    * Anzahl der Bäume hat Einfluss auf Zustand der Kanäle
+	* Maschinelles Lernen
+	* erste Ergebnisse: mit Modell werden dreimal so viele Kanäle im schlechten
+	  Zustand gefunden wie durch ein einfaches statistisches Altersmodell
+
+## Marc Groß, Kommunale Gemeinschaftsstelle für Verwaltungsmanagement (KGSt), Köln
+
+- Datenmanagement
+- Daten sind wesentlich in den Prozessen der Kommunalverwaltungen
+- Beispiele für eigenen Nutzen von Open Data in den Verwaltungen
+    * Spielplatzkontrolle und Inventur. Ist das Open Data oder internes
+	  Datenmanagement? Spielplatzfinder-App
+	* Müllfahrzeuge und Straßenbreite
+	* Kolonnenmanagement, z.B. Gehwegkontrolle
+- Kommunen müssen
+    1. strukturiertes Datenmanagement aufbauen
+    2. Datentransparenz herstellen
+    3. auf verschiedenen Ebenen Know-How aufbauen
+- Aus 1. fällt Open Data systemimmanent ab (?)
+- Alle Mitarbeiter in den Kommunen brauchen mindestens ein Grundverständnis
+
+## Paneldiskussion, Moderation: Open Knowledge Foundation
+
+- Christian Rickerts
+    * Wo gibt es eigentlich Daten, was können wir nutzen?
+    * <http://daten.berlin.de>
+- Sabine Smentek, Staatssekretärin Senatsverwaltung Inneres und Sport
+    * Exceltabellen oder selbstgestrickte Spezialanwendungen für den
+      Datenaustausch!
+	* Vereinheitlichung der IT in Berlin, dabei Open Data und Datenmanagement
+	  "mitdenken"
+- Alice Weigand, Projektleitung Open Data, Stadt Düsseldorf
+    * Open Data ist ein Kommunikationsprojekt, kein IT-Projekt!
+	* -> Konzept für die interne Kommunikation
+- Pavel Richter, CEO [Open Knowledge International](https://www.okfn.de), Berlin
+    * Open Data ist ein Infrastrukturprojekt!
+	* Zivilgesellschaft muss Use Cases schaffen
+- [Rickerts hat von Wikimedia in die Verwaltung gewechselt!](https://www.politik-kommunikation.de/personalwechsel/rickerts-ist-staatssekretaer-der-berliner-senatsverwaltung-fuer-wirtschaft-189422172)
+- Deutungshoheit über Daten in den Verwaltungen -> Angst, diese abzugeben
+- Pavel Richter
+    * Open Data hilft der Verwaltung selbst am meisten
+	* Deutschland ist auf Platz 27 von 94 im [Global Open Data Index](https://index.okfn.org)
+	* England ist von Platz 1 auf 2 abgerutscht. Daraufhin gab es eine Diskussion im Kabinett
+	* Lizenz geht vor Format: einheitliches Format ist nicht so wichtig wie
+	Lizenzbedingungen
+
+## Stefan Kaufmann, [Verschwörhaus Ulm](https://verschwoerhaus.de)
+
+- Statt Smart City: MSIND (Mei Stadt Is Ned Deppert)
+- Herkunft: eigene und anderer Leute Bedürfnisse stillen (z.B. Buszeiten,
+  Kindergartenplätze)
+- Seit 2015: Jugend hackt auch in Ulm
+- Raus aus der Uni, rein in die Stadt
+- Finanzierung: 1. Stadt Ulm: Miete und eine Stelle, 2. Wirtschaft, 3. Bildung
+  und Schulen, 4. Zivilgesellschaft
+- eigener Möbelbau in eigener Werkstatt
+- Rollout von [LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network)/TTN (The Things Network)
+- Input von anderen nach Ulm holen
+- Ein Stadtlabor braucht Narrenfreiheit
+
+## Max Heimstädt, Uni Witten/Herdecke: Offenheit braucht Geschlossenheit
+
+- Berliner Open Data Agenda (2011)
+- These: Open Data führen nicht zu Transparenz
+- "Openwashing": Offenheit wird nur als Label verwendet
+- [Coding Davinci](https://codingdavinci.de/): erst in geschlossenen Arbeitskreisen für Datenqualität sorgen
+- 2008: Kampagne London Boris Johnson: Open Crime Data. Problem: Karten gab es
+  noch gar nicht
+- Open Data versus Whistle Blowing:
+    * Whistle Blowing: individuell, asymmetrisch, einmalig
+	* Open Data: organisational, symmetrisch, routiniert
+- Offene Daten werden erst durch eine neue Ebene der geschlossenen Verfahren
+  (welche Daten werden in welcher Form veröffentlicht?) möglich
+ 
+## Daniel Kirsch: Einschulungsbereiche in Berlin optimieren
+
+- Mathematiker, [Civic Hacker](https://opengovdata.io/2014/civic-hacking), [Code for Germany](https://codefor.de)
+- Projekt mit Bezirksamt Tempelhof/Schöneberg und der [TSB](https://www.technologiestiftung-berlin.de)!
+- Jedem Wohnort wird eine Grundschule zugeordnet
+- andere Wunschschule schwierig
+- Prototyp entwickelt:
+    * Webanwendung (Shiny aber mit professionellem Layout)
+	* Exportfunktion (Berichte, Grafiken): wichtig, um Ergebnisse in Gremien
+	  zu diskutieren
+- genutzte Daten: [FIS-Broker](http://www.stadtentwicklung.berlin.de/geoinformation/fis-broker), <http://daten.berlin.de>, <http://wahlen-berlin.de>
+- Appell: Bringen Sie kreative, technisch versierte Menschen in die Behörden!
+
+## Benjamin Seibel, TSB
+
+- kein Überblick darüber, welche Daten es gibt in der Verwaltung
+- Open Data ist keine technische sondern eine organisatorische Herausforderung
+- Konkretisierung ist wichtig! Nicht fragen: "Was habt ihr für Daten" sondern:
+  "Könnt ihr mir Liste mit den Adressen und Schülerzahlen aller Schule geben?"
+- Mitarbeiter brauchen eine klare Ansage
+- viele Mitarbeiter nutzen eigene Lösungen, die z.T. nur auf alten
+  Betriebssytemen laufen (z.B. Excelmakros, Access-Datenbanken) -> Daten liegen
+  auf den Desktops der Mitarbeiter
+- Ohne gutes Datenmanagement kein gutes Open Data Angebot!
+- Gute Prozesse liefern gute Daten
+- Benötigt werden:
+    * Zentrale Verantwortliche
+	* Klare Vision: was wollen wir teilen?
+	* einheitliches, effizientes und offenes Datenmanagement
+	

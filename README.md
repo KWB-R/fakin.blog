@@ -9,11 +9,16 @@ Blog on FAKIN project status
 
 ```r
 
-if (!require("devtools")) {
+# Install the devtools package
+if (! require("devtools")) {
   install.packages("devtools", repos = "https://cloud.r-project.org")
 }
 
+# Install the blogdown package
 devtools::install_github("rstudio/blogdown")
+
+# Install hugo
+blogdown::install_hugo()
 ```
 
 ### 2. Step) Create new knowledge post
@@ -26,8 +31,7 @@ To do so run the following R code:
 ```r
 
 ### Delete "public" folder (i.e. in case of older website builds)
-unlink("public",recursive = TRUE)
-
+unlink("public", recursive = TRUE)
 
 ### Build site
 blogdown::build_site(local = FALSE)
@@ -36,21 +40,17 @@ blogdown::build_site(local = FALSE)
 ### folder which is required to work for GITHUB (all changed content of 
 ### the docs folder needs to be committed to Github for the blog to be
 ### updated)
-file.copy(from = "public/.",to = "docs",overwrite = TRUE,recursive = TRUE)
+file.copy(from = "public/.", to = "docs", overwrite = TRUE, recursive = TRUE)
 
 ```
 
 If completed finally commit (vit GIT/Subversion) the changed files in the following two directories:
 
 - content/post
-
 - docs
 
-
 and you are done. 
-
 
 ### 4. Step) Visit the updated blog
 
 The content of the updated blog is available at [http://kwb-r.github.io/fakin.blog](http://kwb-r.github.io/fakin.blog).
-
