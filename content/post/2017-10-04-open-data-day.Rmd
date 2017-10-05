@@ -11,10 +11,9 @@ output: html_document
 Am 4. Oktober 2017 fand von 9 bis 16 Uhr der Berlin Open Data Day in den Räumen 
 der Colonia Nova, Thiemannstraße 1, 12059 Berlin statt:
 
-https://projektzukunft.berlin.de/projekt-zukunft/projekt-zukunft-events/berlin-open-data-day-2017/
+[Ankündigung](https://projektzukunft.berlin.de/projekt-zukunft/projekt-zukunft-events/berlin-open-data-day-2017)
 
-Flyer:
-https://projektzukunft.berlin.de/fileadmin/user_upload/OpenData17_einladung-FINAL.pdf
+[Programm](https://projektzukunft.berlin.de/fileadmin/user_upload/OpenData17_einladung-FINAL.pdf)
 
 Es folgt eine stichwortartige Zusammenfassung der Redebeiträge. 
 
