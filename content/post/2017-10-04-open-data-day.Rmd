@@ -130,7 +130,7 @@ Es folgt eine stichwortartige Zusammenfassung der Redebeiträge.
 - kein Überblick darüber, welche Daten es gibt in der Verwaltung
 - Open Data ist keine technische sondern eine organisatorische Herausforderung
 - Konkretisierung ist wichtig! Nicht fragen: "Was habt ihr für Daten" sondern:
-  "Könnt ihr mir Liste mit den Adressen und Schülerzahlen aller Schule geben?"
+  "Könnt ihr mir eine Liste mit den Adressen und Schülerzahlen aller Schulen geben?"
 - Mitarbeiter brauchen eine klare Ansage
 - viele Mitarbeiter nutzen eigene Lösungen, die z.T. nur auf alten
   Betriebssytemen laufen (z.B. Excelmakros, Access-Datenbanken) -> Daten liegen
