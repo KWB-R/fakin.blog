@@ -5,12 +5,13 @@ Blog on FAKIN project status
 
 ## How to update the blog
 
-### 1. Step) Install blogdown package
+### Step 1: Install blogdown package
 
 ```r
 
 # Install the devtools package
 if (! require("devtools")) {
+
   install.packages("devtools", repos = "https://cloud.r-project.org")
 }
 
@@ -21,11 +22,11 @@ devtools::install_github("rstudio/blogdown")
 blogdown::install_hugo()
 ```
 
-### 2. Step) Create new knowledge post
+### Step 2: Create new knowledge post
 
 Create a Rmarkdown post similar to **[2017-05-19-fakin-project-started.Rmd](content/post/2017-05-19-fakin-project-started.Rmd)** in directory ***content/post***.
 
-### 3. Step) Update the blog 
+### Step 3: Update the blog 
 
 To do so run the following R code: 
 ```r
@@ -44,10 +45,11 @@ file.copy(from = "public/.", to = "docs", overwrite = TRUE, recursive = TRUE)
 
 ```
 
-If completed finally commit (vit GIT/Subversion) the changed files in the following two directories:
+If completed finally commit (vit GIT/Subversion) the changed files in the 
+following two directories:
 
-- content/post
-- docs
+- `content/post`
+- `docs`
 
 and you are done. 
 
