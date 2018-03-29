@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop on fakin.blog</title>
-    <link>https://kwb-r.github.io/fakin.blog/tags/workshop/</link>
-    <description>Recent content in Workshop on fakin.blog</description>
+    <title>Workshop Open Science on fakin.blog</title>
+    <link>https://kwb-r.github.io/fakin.blog/categories/workshop-open-science/</link>
+    <description>Recent content in Workshop Open Science on fakin.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kwb-r.github.io/fakin.blog/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kwb-r.github.io/fakin.blog/categories/workshop-open-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Introduction The Barcamp ‘Open Science’ took place on 12 March 2018 in the rooms of the Wikimedia Deutschland, Tempelhofer Ufer 23-24, 10963 Berlin. The event is organised by the Leibnitz Research Allience Science 2.0.
 Central aim of the Barcamp is to build a network between people working in the field of Open Science. Opposed to a Conference, the Barcamp concept follows a bottom-up approach.
 Among the participants were researchers, software developers, librarians, e.</description>
-    </item>
-    
-    <item>
-      <title>Auftaktworkshop: Ergebnisse &amp; weiteres Vorgehen</title>
-      <link>https://kwb-r.github.io/fakin.blog/2017/09/25/auftaktworkshop-results/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kwb-r.github.io/fakin.blog/2017/09/25/auftaktworkshop-results/</guid>
-      <description>1 IST-/SOLL Zustand 1.1 Gesamt  1.2 Nach Abteilung   2 TOP3-Ergebnisse 1. Platz: Daten finden &amp;amp; bekommen  2. Platz: Daten analyisieren, visualisieren &amp;amp; kommunizieren  3. Platz: Daten verifizieren &amp;amp; säubern   3 Weiteres Vorgehen In Bearbeitung….
- </description>
     </item>
     
   </channel>
