@@ -55,7 +55,22 @@ In the introduction round they named e.g. the following topics:
 The Barcamp started with a session planning where topics for sessions of 45 
 minutes duration were proposed.
 
-# Ignition Talk by Lambert Heller
+# Content
+
+- [Ignition Talk by Lambert Heller](#ignition-talk)
+- [Session: What kind of tools should we use?](#session-tools)
+- [Session: How do we motivate / reward doing Open Science?](#session-motivate)
+- [Session: Software citation](#session-citation)
+- [Session: Valid reasons for opting out of open science](#session-opt-out)
+- [Session: CC0/PD vs. (CC)Licences for Open Science](#session-licence)
+- [Session: Pain Points in Open Science](#session-pain)
+- [Session: Research software publishing/repositories](#session-software)
+- [Session: Metadata / Codebooks](#session-metadata)
+- [Session: Open Knowledge Maps](#session-maps)
+- [Session: Doing research outside academia / Citizen Science](#session-citizen)
+- [OK-Lab Berlin: Presentation](#oklab)
+
+# Ignition Talk by Lambert Heller {#ignition-talk}
 
 - [Lambert Heller](https://vivo.tib.eu/fis/display/n0000-0003-0232-7085)
 
@@ -97,7 +112,7 @@ field for business model innovations.
 - [ZeroNet, https://zeronet.io/](https://zeronet.io/)
 - [Akasha: Completely decentralised social network, https://akasha.world/](https://akasha.world/)
 
-# Session: What kind of tools should we use?
+# Session: What kind of tools should we use? {#session-tools}
 
 [https://etherpad.wikimedia.org/p/workshop_OpenScienceFellows_BarcampSession5](https://etherpad.wikimedia.org/p/workshop_OpenScienceFellows_BarcampSession5)
 
@@ -190,7 +205,7 @@ Twitter   1?, 2?, 3?, 4?, 5?, 6?, 7?, 8
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session1](https://etherpad.wikimedia.org/p/oscibar2018_session1)
 
-# Session: How do we motivate / reward doing Open Science
+# Session: How do we motivate / reward doing Open Science? {#session-motivate}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session5](https://etherpad.wikimedia.org/p/oscibar2018_session5)
 
@@ -212,12 +227,12 @@ Data stories:
 - Bad: young researcher, who works in a lab who regulary perform scientific misconduct
 
 
-# Session: Software citation
+# Session: Software citation {#session-citation}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session10](https://etherpad.wikimedia.org/p/oscibar2018_session10)
 
 
-# Session: Valid reasons for opting out of open science
+# Session: Valid reasons for opting out of open science {#session-opt-out}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session13](https://etherpad.wikimedia.org/p/oscibar2018_session13)
 
@@ -243,7 +258,7 @@ To general. Too simple to out-out!
 
 **Make the reasons more detailed!**
 
-# Session: CC0/PD vs. (CC)Licences for Open Science
+# Session: CC0/PD vs. (CC)Licences for Open Science {#session-licence}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session17](https://etherpad.wikimedia.org/p/oscibar2018_session17)
 
@@ -252,7 +267,7 @@ To general. Too simple to out-out!
 [Source](https://cloud.rl-institut.de/index.php/s/oeWecd27pM4mAoG)
 
 
-# Session: Pain Points in Open Science
+# Session: Pain Points in Open Science {#session-pain}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session3](https://etherpad.wikimedia.org/p/oscibar2018_session3)
 
@@ -280,28 +295,28 @@ must be: How can I help you?"
 "living" document
 
 
-# Session: Research software publishing/repositories 
+# Session: Research software publishing/repositories {#session-software}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session6](https://etherpad.wikimedia.org/p/oscibar2018_session6)
 
-- Problem, Software zu finden
+- Welche Probleme gibt es, Software zu finden?
 - GitHub + DOI
-- Allianzinitiative: FAIR (f = findability, ...)
+- Allianzinitiative: FAIR principles
 - Eigenentwicklung (wer?): Metadatenportal, nur aggregierte Daten, zugänglich 
 ist ein (noch privates) GitHub repo, Software auf Django basierend
-- Anja: Metadaten-Harvesting
-- Birte Pfeiffer: Suche nach Datenerhebungs-Tools
-- Wie wurde gesucht?
-- mybinder (Vorschlag von Michael Rustler)
+- [Anja Busch, Leibniz-Informationszentrum Wirtschaft](https://www.zbw.eu/de/forschung/science-2-0/anja-busch/): 
+Metadaten-Harvesting
+- [Birte Pfeiffer, GIGA Hamburg](https://www.giga-hamburg.de/en/team/pfeiffer): 
+Suche nach Datenerhebungs-Tools -> Wie soll ich das alles testen?
 - Sandbox-Anwendungen und Ansprechpartner sind wichtig zum Evaluieren von 
-Software 
+Software -> using [mybinder](https://mybinder.org/)?
 
 **Resources**
 
 [openscience.org, The OpenScience Project](http://openscience.org)
+[de-rse.org, Research Software Engineers](http://www.de-rse.org/de/index.html)
 
-
-# Session: Metadata / Codebooks
+# Session: Metadata / Codebooks {#session-metadata}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session9](https://etherpad.wikimedia.org/p/oscibar2018_session9)
 
@@ -322,7 +337,7 @@ scientist does a pre-annotation, final annotation is done by a data curator
 - [JasonLD: JSON for Linking Data, https://json-ld.org/](https://json-ld.org/)
 
 
-# Session: Open Knowledge Maps
+# Session: Open Knowledge Maps {#session-maps}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session14](https://etherpad.wikimedia.org/p/oscibar2018_session14)
 
@@ -338,7 +353,7 @@ scientist does a pre-annotation, final annotation is done by a data curator
     + OpenUP
 
 
-# Session: Doing research outside academia / Citizen Science 
+# Session: Doing research outside academia / Citizen Science {#session-citizen}
 
 [https://etherpad.wikimedia.org/p/oscibar2018_session20](https://etherpad.wikimedia.org/p/oscibar2018_session20)
 
@@ -355,7 +370,7 @@ scientific research
 - [ECSA: 10 Principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science)
 
 
-# OK-Lab Berlin: Presentation
+# OK-Lab Berlin: Presentation {#oklab}
 
 - What is Open Data?
     + machine readable
@@ -369,7 +384,7 @@ scientific research
 Data portals
 
 - [govdata.de](https://www.govdata.de/)
-- [daten.berlin.de](daten.berlin.de), data.deutschebahn.de
+- [daten.berlin.de](http://daten.berlin.de)
 
 Example applications
 
@@ -388,7 +403,7 @@ References
 
 # Personal Contacts
 
-**Alexander Struck, HU Berlin**: We may have a look at [Seafile](https://www.seafile.com/en/home/) as a free software tool for storing 
-our raw data.
+**Alexander Struck, HU Berlin**: We may have a look at [Seafile](https://www.seafile.com/en/home/) as a software tool for storing our 
+raw data.
 
 # Wrap-up
