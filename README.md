@@ -24,7 +24,7 @@ blogdown::install_hugo()
 
 ### Step 2: Create new knowledge post
 
-Create a Rmarkdown post similar to **[2017-05-19-fakin-project-started.Rmd](content/post/2017-05-19-fakin-project-started.Rmd)** in directory ***content/post***.
+Create an Rmarkdown post similar to **[2017-05-19-fakin-project-started.Rmd](content/post/2017-05-19-fakin-project-started.Rmd)** in directory `content/post`.
 
 ### Step 3: Update the blog 
 
@@ -37,12 +37,10 @@ unlink("public", recursive = TRUE)
 ### Build site
 blogdown::build_site(local = FALSE)
 
-### Copies files from public folder (please do not COMMIT!!) into docs 
-### folder which is required to work for GITHUB (all changed content of 
-### the docs folder needs to be committed to Github for the blog to be
-### updated)
+### Copy files from public folder (please do not COMMIT!!) into docs folder 
+### which is required to work for GITHUB (all changed content of the docs folder 
+### needs to be committed to Github for the blog to be updated)
 file.copy(from = "public/.", to = "docs", overwrite = TRUE, recursive = TRUE)
-
 ```
 
 If completed finally commit (vit GIT/Subversion) the changed files in the 
@@ -53,6 +51,6 @@ following two directories:
 
 and you are done. 
 
-### 4. Step) Visit the updated blog
+### Step 4: Visit the updated blog
 
 The content of the updated blog is available at [http://kwb-r.github.io/fakin.blog](http://kwb-r.github.io/fakin.blog).
